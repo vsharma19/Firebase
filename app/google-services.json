@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "820811943472",
+    "firebase_url": "https://fir-1bea3.firebaseio.com",
+    "project_id": "fir-1bea3",
+    "storage_bucket": "fir-1bea3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820811943472:android:76d84417e51f81d768e7f5",
+        "android_client_info": {
+          "package_name": "com.uplift.Firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820811943472-s9n6kbb3c9qgs312cltimuvpndp81gjg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKAAIDUxmXPAW3_X6L4_ChqDA8ASJ_FGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820811943472-s9n6kbb3c9qgs312cltimuvpndp81gjg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
